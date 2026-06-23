@@ -5,6 +5,31 @@
   <img src="https://img.shields.io/badge/frontend-React-61DAFB" alt="React">
 </p>
 
+<p align="center">
+<pre align="center">
+                          ▄▄█████████▄▄
+                       ▄█████████████████▄
+                     ▄█████████████████████▄
+                    ███████▀▀▀▀▀▀▀▀▀███████▄
+                   ▐█████▀      ▄▄     ▀█████▌
+                   █████▀     ▄████▄    ▀█████
+                   █████     ████████▌   ▐████
+                   █████    ▐████████    █████
+                    █████    ▀██████▀   ▄████▌
+                     ▀████▄     ▀▀    ▄████▀
+                       ▀█████████████████▀
+                         ▀▀███████████▀▀
+                             ▀▀▀▀▀▀▀
+
+_    _  _____ _     ______ _____ _   _  ___   _   _ _____ 
+| |  | ||  _  | |    |  ___|  _  | | | |/ _ \ | \ | |_   _|
+| |  | || | | | |    | |_  | | | | | | / /_\ \|  \| | | |  
+| |/\| || | | | |    |  _| | | | | | | |  _  || .  | | |  
+\  /\  /\ \_/ / |____| |   \ \/' / |_| | | | || |\  | | |  
+ \/  \/  \___/\_____/\_|    \_/\_\\___/\_| |_/\_| \_/ \_/
+</pre>
+</p>
+
 # 🐺 WolfQuant
 
 > **Your trading command center.** Real-time portfolio tracking, accurate P&L, and performance analytics — all from a single SQLite file. No cloud. No subscription. No bullshit.
